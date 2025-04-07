@@ -64,9 +64,9 @@ endmodule
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by:A.Pugazh sozhan
+Developed by: JONATHAN RHENIUS S
 
-RegisterNumber:212224240121
+RegisterNumber:212224050016
 
 **RTL Schematic**
 
@@ -74,6 +74,7 @@ RegisterNumber:212224240121
 
 
 **Output/TIMING Waveform**
+
 
 ![image](https://github.com/user-attachments/assets/2b212c66-6c85-4eed-b333-0ad4cde254a3)
 
